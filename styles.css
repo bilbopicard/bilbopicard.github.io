@@ -1,0 +1,53 @@
+/* 
+Color palette
+https://coolors.co/8ecae6-219ebc-023047-ffb703-fb8500 
+*/
+body {
+    background-color: #8ecae6;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    position: sticky;
+    top: 0;
+    height: 40px;
+}
+nav {
+    background-color: #219ebc;
+    padding: 15px;
+    border-bottom: 2px solid black;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+    padding: 16px;
+    font-size: 18px;
+    font-weight: bold;
+}
+a:hover {
+    background-color: #ffb703;
+}
+h1, h2 {
+    text-align: center;
+    width: 100%;
+    margin: 20px auto;
+    color: #023047;
+}
+h3 {
+    color: #023047;
+}
+main {
+    margin-top: 40px;
+}
+#main-wrapper {
+    background-color: #219ebc;
+    width: 70%;
+    margin: auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+p {
+    line-height: 1.6em;
+    font-size: 18px;
+    color: #023047;
+}
